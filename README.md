@@ -1,2 +1,2 @@
-# wp_setup
+# wp_setup for reactjs
 
